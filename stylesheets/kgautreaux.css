@@ -199,7 +199,6 @@ div#top_row {
         -webkit-border-top-left-radius: 6px;
 	-webkit-border-top-right-radius: 6px;
 	border: none;
-	margin-bottom: 0.2em;
 }
 
 div#bottom_row {
@@ -208,7 +207,6 @@ div#bottom_row {
 	-webkit-border-bottom-left-radius: 6px;
 	-webkit-border-bottom-right-radius: 6px;
 	border: none;
-	margin-bottom: 0.2em;
 }
 
 h2 {
