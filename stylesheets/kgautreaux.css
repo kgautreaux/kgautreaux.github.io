@@ -213,14 +213,14 @@ h2 {
 	color: #ccc;
 }
 
-a#cnmc {
+a#selhc {
 	padding: 0.25em;
 	display: inline;
 	text-decoration: underline;
 	color: #000
 }
 
-a#cnmc:hover {
+a#selhc:hover {
 	padding: 0.25em;
 	background-color: grey;
 }
